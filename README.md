@@ -1,4 +1,4 @@
-# Unit 3 Homework: Python
+Challenge 3: Python
 
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
 
